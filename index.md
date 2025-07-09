@@ -44,7 +44,7 @@ Another excellent resource is [jobs.perl.org](http://jobs.perl.org)
 Keep in Touch
 -------------
 
- * Find us on [Facebook](http://www.facebook.com/sydneypm)
+ * Find us on [Facebook](http://www.facebook.com/perlaustralia)
 
  * Find us on [Meetup.com](http://www.meetup.com/sydney-perl)
 
